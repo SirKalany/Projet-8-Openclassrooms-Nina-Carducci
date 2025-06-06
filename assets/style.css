@@ -60,7 +60,6 @@ nav h1 {
   z-index: 0;
   aspect-ratio: 1 / 1;
   min-height: 600px;
-  position: relative; /* pour ::before */
 }
 
 .picture img {
